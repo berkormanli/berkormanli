@@ -39,7 +39,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zeixna"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zeixna" /></a><a href="https://ko-fi.com/zeixna"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zeixna" /></a></p><br><br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkormanli&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkormanli&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=berkormanli&show_icons=true&theme=radical&border_radius=2" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=berkormanli&" alt="berkormanli" /></p>
