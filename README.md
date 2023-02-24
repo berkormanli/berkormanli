@@ -8,10 +8,10 @@
 - 🌱 I’m currently learning **Frameworks**
 </p>
 <p align="center">
-- 👨‍💻 All of my projects are available at [berkormanli.dev/portfolio](https://berkormanli.dev/portfolio)
+- 👨‍💻 All of my projects are available at https://berkormanli.dev/portfolio
 </p>
 <p align="center">
-- 📝 I regularly write articles on [berkormanli.dev/blog](https://berkormanli.dev/blog)
+- 📝 I regularly write articles on https://berkormanli.dev/blog
 </p>
 <p align="center">
 - 💬 Ask me about **Python, Lua, JavaScript, React**
@@ -20,7 +20,7 @@
 - 📫 How to reach me **zeixnascripting@gmail.com**
 </p>
 <p align="center">
-- 📄 Know about my experiences [berkormanli.dev/resume](https://berkormanli.dev/resume)
+- 📄 Know about my experiences https://berkormanli.dev/resume
 </p>
 <p align="center">
 - ⚡ Fun fact **I don't stop until I finish my ongoing project :)**
