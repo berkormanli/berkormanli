@@ -20,7 +20,7 @@
 - 📫 How to reach me **zeixnascripting@gmail.com**
 </p>
 <p align="center">
-- 📄 Know about my experiences https://berkormanli.dev/resume
+- 📄 Know about my experiences at (WIP)https://berkormanli.dev/resume
 </p>
 <p align="center">
 - ⚡ Fun fact **I don't stop until I finish my ongoing project :)**
